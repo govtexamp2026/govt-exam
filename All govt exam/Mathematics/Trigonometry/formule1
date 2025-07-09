@@ -1,0 +1,87 @@
+SSC CGL – Trigonometry (त्रिकोणमिति) Notes
+
+-------------------------
+🔹 Basic Trigonometric Ratios
+-------------------------
+
+1. sin θ = perpendicular / hypotenuse
+2. cos θ = base / hypotenuse
+3. tan θ = perpendicular / base = sin θ / cos θ
+4. cot θ = 1 / tan θ = base / perpendicular
+5. sec θ = 1 / cos θ = hypotenuse / base
+6. cosec θ = 1 / sin θ = hypotenuse / perpendicular
+
+-------------------------
+🔹 Standard Angles Table (0°, 30°, 45°, 60°, 90°)
+-------------------------
+
+| θ    | sin θ | cos θ | tan θ | cot θ | sec θ | cosec θ |
+|------|--------|--------|--------|--------|--------|-----------|
+| 0°   | 0      | 1      | 0      | ∞      | 1      | ∞         |
+| 30°  | 1/2    | √3/2   | 1/√3   | √3     | 2/√3   | 2         |
+| 45°  | 1/√2   | 1/√2   | 1      | 1      | √2     | √2        |
+| 60°  | √3/2   | 1/2    | √3     | 1/√3   | 2      | 2/√3      |
+| 90°  | 1      | 0      | ∞      | 0      | ∞      | 1         |
+
+-------------------------
+🔹 Trigonometric Identities
+-------------------------
+
+1. sin²θ + cos²θ = 1
+2. 1 + tan²θ = sec²θ
+3. 1 + cot²θ = cosec²θ
+
+-------------------------
+🔹 Angle Relationships
+-------------------------
+
+1. sin (90° – θ) = cos θ  
+2. cos (90° – θ) = sin θ  
+3. tan (90° – θ) = cot θ  
+4. cot (90° – θ) = tan θ  
+5. sec (90° – θ) = cosec θ  
+6. cosec (90° – θ) = sec θ  
+
+-------------------------
+🔹 Trigonometric Values in Quadrants
+-------------------------
+
+- I Quadrant: All positive  
+- II Quadrant: sin, cosec positive  
+- III Quadrant: tan, cot positive  
+- IV Quadrant: cos, sec positive  
+
+-------------------------
+🔹 Heights and Distances
+-------------------------
+
+- Use triangle formulas with angle of elevation/depression.
+- Common angles: 30°, 45°, 60°
+
+Examples:
+1. Height = Base × tan θ
+2. Distance = Height / tan θ
+
+-------------------------
+🔹 Tips for SSC CGL
+-------------------------
+
+- Memorize trigonometric values of standard angles.
+- Practice identities and their manipulation.
+- Solve problems involving angle of elevation and depression.
+- Focus on quadrant signs (+/-).
+- Use rationalization to simplify expressions.
+
+-------------------------
+🔹 Unit Circle Trick (Optional)
+-------------------------
+
+sin(180° – θ) = sin θ  
+cos(180° – θ) = –cos θ  
+tan(180° – θ) = –tan θ  
+
+sin(360° – θ) = –sin θ  
+cos(360° – θ) = cos θ  
+tan(360° – θ) = –tan θ  
+
+ 

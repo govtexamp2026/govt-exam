@@ -1,0 +1,109 @@
+
+## 📘 **गणित का सिलेबस (Mathematics Syllabus) – RRB & SSC**
+
+### 🧮 1. **संख्या पद्धति (Number System)**
+
+* पूर्णांक, अभाज्य संख्या, अभाज्यता के नियम
+* LCM और HCF
+* भिन्न और दशमलव
+* सरलीकरण
+* भाग देने के नियम
+
+---
+
+### ➕➖ 2. **सरलीकरण (Simplification)**
+
+* BODMAS नियम
+* प्रतिशत और अनुपात
+* घातांक और करणी (Powers and Roots)
+
+---
+
+### 📏 3. **सरलीकरण और अनुपात (Ratio and Proportion, Partnership)**
+
+* अनुपात और समानुपात
+* साझेदारी (Partnership)
+* साझेदारी में लाभ और हानि
+
+---
+
+### 🕰️ 4. **समय, कार्य और दूरी (Time, Work and Distance)**
+
+* कार्य और समय
+* समय, गति और दूरी
+* नाव और धारा (Boat & Stream)
+* ट्रेन की समस्याएं
+
+---
+
+### 🧾 5. **ब्याज (Interest)**
+
+* साधारण ब्याज (Simple Interest)
+* चक्रवृद्धि ब्याज (Compound Interest)
+
+---
+
+### 🛒 6. **लाभ, हानि और छूट (Profit, Loss and Discount)**
+
+* क्रय मूल्य, विक्रय मूल्य, लाभ प्रतिशत
+* छूट संबंधी प्रश्न
+
+---
+
+### 📊 7. **आंकड़े और डेटा विश्लेषण (Data Interpretation)**
+
+* तालिका (Table), बार ग्राफ, पाई चार्ट
+* औसत (Average)
+* मानक विचलन (Standard Deviation – केवल SSC CGL में)
+
+---
+
+### 📐 8. **मौलिक गणित (Arithmetic Maths)**
+
+* प्रतिशत (Percentage)
+* औसत (Average)
+* मिश्रण और अनुपात (Mixture & Allegation)
+* आयु संबंधी प्रश्न (Problems on Ages)
+
+---
+
+### 📈 9. **बीजगणित (Algebra)**
+
+* सरल समीकरण (Linear Equations)
+* द्विघात समीकरण (Quadratic Equations)
+* गुणनखंड और सूत्र (Identities)
+
+---
+
+### 📐 10. **ज्यामिति (Geometry)**
+
+* त्रिभुज, चतुर्भुज, वृत्त
+* क्षेत्रफल और परिमाप
+* कोण (Angles)
+* रेखाएं और त्रिज्या
+
+---
+
+### 🧱 11. **त्रिकोणमिति (Trigonometry)** *(मुख्यतः SSC में)*
+
+* Trigonometric Ratios
+* Identities
+* Heights and Distances
+
+---
+
+### 🔷 12. **म mensuration (क्षेत्रमिति)**
+
+* 2D और 3D आकृतियाँ (Area, Volume, Surface Area)
+* घन, घनाभ, सिलेंडर, शंकु, गोला आदि
+
+---
+
+## ✅ **कहां ज्यादा क्या आता है?**
+
+| परीक्षा                | प्राथमिकता वाले टॉपिक्स                                             |
+| ---------------------- | ------------------------------------------------------------------- |
+| **RRB NTPC / Group D** | Simplification, SI & CI, Profit-Loss, Time & Work, Speed & Distance |
+| **SSC CGL/CHSL**       | Algebra, Geometry, Trigonometry, Mensuration, Data Interpretation   |
+
+

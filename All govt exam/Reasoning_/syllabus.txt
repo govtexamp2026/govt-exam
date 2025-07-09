@@ -1,0 +1,77 @@
+यहाँ पर **Railway (RRB NTPC, Group D)** और **SSC (CGL, CHSL, MTS)** परीक्षाओं के लिए **रीजनिंग (Reasoning / General Intelligence)** का पूरा सिलेबस दिया गया है। यह विषय दोनों परीक्षाओं के लिए बेहद महत्वपूर्ण है।
+
+---
+
+## 🧠 **रीजनिंग सिलेबस (Reasoning Syllabus) – RRB & SSC**
+
+### 🔹 1. **सामान्य बुद्धिमत्ता (General Intelligence)**
+
+| टॉपिक                                 | विवरण                                           |
+| ------------------------------------- | ----------------------------------------------- |
+| **Analogies (समानता)**                | शब्द, चित्र, संख्या आधारित समानता               |
+| **Classification (वर्गीकरण)**         | Odd One Out – शब्द/संख्या/चित्र                 |
+| **Series (श्रृंखला)**                 | अंक/अक्षर/चित्र श्रृंखला (Number/Letter Series) |
+| **Coding-Decoding**                   | सामान्य, संख्या, अक्षर कोडिंग                   |
+| **Blood Relation (रक्त संबंध)**       | पारिवारिक संबंध, वंशवृक्ष                       |
+| **Direction Sense Test (दिशा ज्ञान)** | उत्तर, दक्षिण, दूरी, कोण                        |
+| **Alphabet Test**                     | अक्षर क्रम, शब्दों की स्थिति                    |
+| **Venn Diagram**                      | वर्ग चित्र द्वारा वर्गीकरण                      |
+
+---
+
+### 🔹 2. **तार्किक विचार (Logical Reasoning)**
+
+(SSC में अपेक्षाकृत ज्यादा पूछा जाता है)
+
+| टॉपिक                                   | विवरण                                  |
+| --------------------------------------- | -------------------------------------- |
+| **Syllogism**                           | निष्कर्ष आधारित प्रश्न (All, Some, No) |
+| **Statement and Conclusion/Assumption** | कथन और निष्कर्ष, धारणा                 |
+| **Cause and Effect**                    | कारण और प्रभाव                         |
+| **Statement and Arguments**             | तर्क आधारित प्रश्न                     |
+| **Decision Making**                     | निर्णय लेना                            |
+
+---
+
+### 🔹 3. **गणनात्मक तर्क (Mathematical Reasoning)**
+
+| टॉपिक                       | विवरण                                 |
+| --------------------------- | ------------------------------------- |
+| **Arithmetic Reasoning**    | संख्या आधारित तर्क                    |
+| **Number Puzzle**           | गणना से संबंधित पहेली                 |
+| **Missing Number**          | श्रंखला या मैट्रिक्स में लुप्त संख्या |
+| **Mathematical Operations** | +, –, ×, ÷ के स्थान पर नए संकेत       |
+
+---
+
+### 🔹 4. **चित्रात्मक और गैर-मौखिक तर्क (Non-Verbal Reasoning)**
+
+| टॉपिक                       | विवरण                           |
+| --------------------------- | ------------------------------- |
+| **Figure Series**           | चित्रों की श्रृंखला             |
+| **Mirror & Water Images**   | दर्पण प्रतिबिंब और जल प्रतिबिंब |
+| **Paper Folding / Cutting** | कागज मोड़ना / काटना             |
+| **Embedded Figures**        | आकृति में छिपी आकृति            |
+| **Cube and Dice**           | पासा और घन से संबंधित प्रश्न    |
+| **Pattern Completion**      | अधूरी आकृति को पूरा करना        |
+
+---
+
+### ✅ **परीक्षा अनुसार फोकस:**
+
+| परीक्षा                | ज़्यादा पूछे जाने वाले टॉपिक                                               |
+| ---------------------- | -------------------------------------------------------------------------- |
+| **RRB NTPC / Group D** | Series, Coding-Decoding, Direction, Blood Relation, Venn Diagram           |
+| **SSC CGL/CHSL**       | Syllogism, Statement & Conclusion, Figure Series, Embedded Figures, Puzzle |
+
+---
+
+### 📚 सुझाव:
+
+* RRB में Non-Verbal और Basic Reasoning पर ज़ोर होता है
+* SSC में Analytical और Logical Reasoning का स्तर थोड़ा ऊँचा होता है
+
+---
+
+अगर आप चाहें तो मैं इसका **PDF**, **Excel Sheet**, या **Google Sheet** फॉर्मेट भी बना सकता हूँ।
+क्या आप चाहेंगे?
