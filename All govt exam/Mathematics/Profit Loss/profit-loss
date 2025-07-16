@@ -1,0 +1,113 @@
+**Profit and Loss** is an important topic in arithmetic for competitive exams like **SSC CGL**, **RRB**, etc. Here's a complete summary with formulas and examples in **English and Hindi**.
+
+---
+
+## 📘 **Key Terms (मुख्य शब्दावली)**
+
+| English Term         | Hindi Meaning |
+| -------------------- | ------------- |
+| Cost Price (C.P.)    | क्रय मूल्य    |
+| Selling Price (S.P.) | विक्रय मूल्य  |
+| Profit (Gain)        | लाभ           |
+| Loss                 | हानि          |
+| Marked Price (M.P.)  | अंकित मूल्य   |
+| Discount             | छूट           |
+
+---
+
+## 🧮 **Formulas (सूत्र)**
+
+### 1. **Profit or Loss**
+
+* **Profit = S.P. – C.P.**
+  (लाभ = विक्रय मूल्य – क्रय मूल्य)
+* **Loss = C.P. – S.P.**
+  (हानि = क्रय मूल्य – विक्रय मूल्य)
+
+---
+
+### 2. **Profit% or Loss%**
+
+* **Profit% = (Profit / C.P.) × 100**
+* **Loss% = (Loss / C.P.) × 100**
+
+---
+
+### 3. **Selling Price (S.P.)**
+
+* **If Profit: S.P. = C.P. × (100 + Profit%) / 100**
+* **If Loss: S.P. = C.P. × (100 – Loss%) / 100**
+
+---
+
+### 4. **Cost Price (C.P.)**
+
+* **If Profit: C.P. = S.P. × 100 / (100 + Profit%)**
+* **If Loss: C.P. = S.P. × 100 / (100 – Loss%)**
+
+---
+
+### 5. **Discount**
+
+* **Discount = Marked Price – Selling Price**
+* **Discount% = (Discount / Marked Price) × 100**
+
+---
+
+### 6. **Successive Discounts**
+
+If two successive discounts are $x\%$ and $y\%$, then:
+
+* **Net Discount% = x + y – (xy / 100)**
+
+---
+
+## 📝 **Examples (उदाहरण)**
+
+### Example 1:
+
+**C.P. = ₹500, S.P. = ₹600**, then
+**Profit = 600 – 500 = ₹100**
+**Profit% = (100 / 500) × 100 = 20%**
+
+---
+
+### Example 2:
+
+**C.P. = ₹1200, S.P. = ₹1000**, then
+**Loss = 1200 – 1000 = ₹200**
+**Loss% = (200 / 1200) × 100 = 16.67%**
+
+---
+
+### Example 3:
+
+A man marks his product 20% above cost and gives a discount of 10%. Find gain%.
+
+Let C.P. = ₹100
+⇒ M.P. = ₹120
+⇒ S.P. = ₹120 – 10% of 120 = ₹108
+⇒ Profit = ₹8
+⇒ Profit% = 8%
+
+---
+
+### Example 4:
+
+If a person gains 25%, find the C.P. of an item sold for ₹250.
+
+**C.P. = 250 × 100 / (100 + 25) = ₹200**
+
+---
+
+## 📌 **Tips for SSC & Other Exams**
+
+* Profit/Loss is always calculated on **Cost Price**.
+* Be careful with **Successive Discounts**.
+* Know shortcut % to fraction conversions:
+  e.g., 20% = 1/5, 25% = 1/4, 12.5% = 1/8, etc.
+* Practice using options for fast calculations in exams.
+
+---
+
+Would you like **practice questions** or a **PDF version** in Hindi or English?
