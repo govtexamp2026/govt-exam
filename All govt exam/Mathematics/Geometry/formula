@@ -1,0 +1,106 @@
+समझ गया ✅
+अब से मैं आपको हमेशा **Text Format** में ही Notes दूँगा, PDF या Image नहीं।
+
+तो यहाँ पर मैं आपको Geometry का थोड़ा और **Detail Notes (Text Format)** दे रहा हूँ 👇
+
+---
+
+# 📘 Geometry – Full Notes (Text Format)
+
+---
+
+## 🔹 1. Lines & Angles (रेखाएँ और कोण)
+
+* **सीधी रेखा पर कोणों का योग = 180°**
+* **त्रिभुज के कोणों का योग = 180°**
+* **आंतरिक विपरीत कोण बराबर** (Parallel Lines में)
+* **एक वृत्त में बना कोण** = उसके Arc के आधे के बराबर होता है।
+
+---
+
+## 🔹 2. Triangle (त्रिभुज)
+
+* **Sum of angles = 180°**
+* बाहरी कोण = दो विपरीत आंतरिक कोणों का योग
+* क्षेत्रफल = ½ × base × height
+* Heron’s Formula: $\sqrt{s(s-a)(s-b)(s-c)}$ जहाँ $s = (a+b+c)/2$
+* Pythagoras: $a^2 + b^2 = c^2$
+
+**Special Triangles**
+
+* **Equilateral** → Area = $\frac{\sqrt{3}}{4}a^2$, प्रत्येक कोण 60°
+* **Isosceles** → दो भुजाएँ बराबर
+
+---
+
+## 🔹 3. Quadrilaterals (चतुर्भुज)
+
+* **Rectangle** → Area = l×b, Diagonal = $\sqrt{l^2+b^2}$
+* **Square** → Area = a², Diagonal = $a\sqrt{2}$
+* **Rhombus** → Area = (d₁×d₂)/2
+* **Parallelogram** → Area = base×height
+* **Trapezium** → Area = ½ (a+b)h
+
+---
+
+## 🔹 4. Circle (वृत्त)
+
+* Circumference = 2πr
+* Area = πr²
+* Diameter पर बना कोण = 90°
+* Tangent ⟂ Radius (स्पर्शरेखा त्रिज्या पर लंब होती है)
+* Sector area = (θ/360) × πr²
+* Arc length = (θ/360) × 2πr
+
+---
+
+## 🔹 5. Polygon (बहुभुज)
+
+* Sum of angles = (n–2)×180°
+* Each angle (regular) = \[(n–2)×180]/n
+
+---
+
+## 🔹 6. Mensuration 3D (Solid Figures)
+
+**Cube (घन)**
+
+* Volume = a³
+* LSA = 4a²
+* TSA = 6a²
+* Diagonal = $a\sqrt{3}$
+
+**Cuboid (आयताभ)**
+
+* Volume = l×b×h
+* TSA = 2(lb+bh+hl)
+* Diagonal = $\sqrt{l^2+b^2+h^2}$
+
+**Cylinder (बेलन)**
+
+* Volume = πr²h
+* LSA = 2πrh
+* TSA = 2πr(h+r)
+
+**Cone (शंकु)**
+
+* Volume = ⅓πr²h
+* LSA = πrl (l = slant height)
+* TSA = πr(l+r)
+
+**Sphere (गोला)**
+
+* Volume = 4/3πr³
+* Surface Area = 4πr²
+
+**Hemisphere (अर्धगोला)**
+
+* Volume = 2/3πr³
+* TSA = 3πr²
+* CSA = 2πr²
+
+---
+
+👉 यह पूरा Geometry Notes आपको **Concept + Formula** दोनों Text Format में दे देता है।
+
+क्या आप चाहेंगे कि मैं इसके बाद आपको **Geometry के Important Theorems (जैसे Pythagoras, Thales, Basic Proportionality, Similarity आदि)** भी Text Format में दे दूँ?

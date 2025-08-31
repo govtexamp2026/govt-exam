@@ -1,0 +1,120 @@
+बिलकुल 👍
+यह रहा आपका **Mixture & Alligation – Full Summary (Text Format)**
+
+---
+
+# 📘 Mixture & Alligation Summary (Text Notes)
+
+---
+
+## 1. Mixture (मिश्रण)
+
+दो या दो से अधिक वस्तुओं (Milk, Water, Sugar, Coffee, Grains) को मिलाने को **Mixture** कहते हैं।
+
+---
+
+## 2. Alligation (आरोपण नियम)
+
+जब अलग-अलग मूल्य/गुणवत्ता वाली वस्तुओं को मिलाकर एक औसत मूल्य वाला मिश्रण बनाना हो, तो अनुपात निकालने के लिए **Alligation Rule** प्रयोग होता है।
+
+**Formula:**
+Cheaper : Dearer = (D – M) : (M – C)
+
+जहाँ,
+
+* C = Cheaper price (सस्ता)
+* D = Dearer price (महँगा)
+* M = Mean price (मिश्रण का मूल्य)
+
+---
+
+## 3. Steps (Cross Method)
+
+1. सस्ते और महँगे वस्तु के भाव लिखें।
+2. बीच में औसत मूल्य लिखें।
+3. Cross Subtraction करें:
+
+   * (D – M)
+   * (M – C)
+4. Ratio = (D – M) : (M – C)
+
+---
+
+## 4. Important Cases
+
+### (a) पानी free हो (C = 0)
+
+Milk : Water = (Milk Price – Mixture Price) : Mixture Price
+
+### (b) Profit वाले प्रश्न
+
+Gain% = (Water ÷ Milk) × 100
+
+### (c) Replacement Method (Repeated Mixture)
+
+Milk left = Initial × (1 – x/Q)ⁿ
+
+* Q = total quantity
+* x = निकालकर बदली गई मात्रा
+* n = बार (repetitions)
+
+### (d) तीन वस्तुएँ (3 Items Mixture)
+
+Step by Step alligation method लगाएँ।
+अगर Mean value बीच वाले price के बराबर है → तो बीच वाला item किसी भी मात्रा में हो सकता है।
+
+---
+
+## 5. Short Tricks
+
+1. **Water Free Case** → Ratio = (D – M) : M
+2. **Replacement Case** → Formula $(1 – x/Q)ⁿ$
+3. **Profit Case** → Gain% = (Water ÷ Milk) × 100
+4. **Mixing 3 Items** → Step by step alligation
+
+---
+
+## 6. Examples (Quick)
+
+1. ₹40 और ₹60 की चीनी → Mean = ₹50 → Ratio = 1:1
+2. Milk ₹60/L, Water free, Mixture ₹40 → Ratio = (60–40):40 = 20:40 = 1:2
+3. 100 L milk → 10 L निकाला, 10 L पानी मिलाया, 2 बार → Milk = 100 × (90/100)² = 81 L
+
+---
+
+👉 ये Summary आपको पूरे Chapter का **1 Page Revision Note** दे देगी।
+
+---
+
+क्या आप चाहेंगे कि मैं इसे आपके लिए **टेबल (Table format) में भी बना दूँ**, ताकि exam से पहले जल्दी glance कर सकें?
+
+
+
+
+बहुत बढ़िया 👍
+अब मैं आपको **Mixture & Alligation Summary (Table Format)** दे रहा हूँ ताकि आप Exam से पहले एक नज़र में Revise कर सकें।
+
+---
+
+# 📘 Mixture & Alligation – Quick Revision Table
+
+| Concept / Case                | Formula / Trick                                             | Example                                                  |
+| ----------------------------- | ----------------------------------------------------------- | -------------------------------------------------------- |
+| **Basic Rule (Alligation)**   | Ratio = (D – M) : (M – C)                                   | ₹40 & ₹60 → Mean = 50 → Ratio = 1:1                      |
+| **Water Free Case**           | Milk : Water = (Milk Price – Mixture Price) : Mixture Price | Milk ₹60/L, Mixture ₹40 → Ratio = 20:40 = 1:2            |
+| **Profit by mixing water**    | Gain% = (Water ÷ Milk) × 100                                | 1 L milk + 200 ml water → 20% profit                     |
+| **Replacement Method**        | Milk left = Initial × (1 – x/Q)ⁿ                            | 60 L milk, remove 10 L each time, 2 times → 41.67 L left |
+| **3 Items Mixture**           | Step by Step Alligation                                     | 20, 40, 60 → Mean = 40 → 20:60 = 1:1, and 40 any qty     |
+| **Direct Quantity Formula**   | To add = (M – C)/(D – M) × Existing Qty                     | 40 L milk @₹60, Mixture @₹30 → Add water = 40 L          |
+| **Ratio Change (Milk–Water)** | Use proportion rule                                         | 20 L milk, want 4:1 → need 5 L water                     |
+| **Percentage Method (Quick)** | % Milk left after replacement = (1 – x/Q)ⁿ × 100            | 100 L mix, 10 L replaced once → 90% milk left            |
+| **Equal Quantity Rule**       | If Mean = exactly mid value → Ratio = 1:1                   | 72 & 64 → Mean = 68 → Ratio = 1:1                        |
+| **Profit on CP Selling**      | %Profit = (Extra Water ÷ Milk) × 100                        | 1 L milk + 300 ml water → 30% profit                     |
+
+---
+
+✅ यह Table आपको सारे **Formula + Tricks + Examples** एक जगह दे देता है।
+
+---
+
+👉 क्या आप चाहेंगे कि मैं इस पूरे Chapter (Summary + Tricks + Examples + Advanced Questions) को आपके लिए एक **पूर्ण PDF Notes** बना दूँ ताकि Revision आसान हो?

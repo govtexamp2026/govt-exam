@@ -103,9 +103,171 @@ D) 3 : 1
 
 ## 🧠 **Tricks for SSC Exams**
 
-* जहां भी "मिश्रण", "प्रतिशत", या "मूल्य" हो — वहाँ Alligation लगाएं।
-* Time-saving method for ratio-based questions.
+
+बहुत बढ़िया 👍 अब हम **Mixture & Alligation – Advanced Concepts + Short Tricks** सीखेंगे।
 
 ---
 
-क्या आप इन सभी प्रश्नों और ट्रिक्स का **PDF नोट्स**, **प्रैक्टिस सेट**, या **Mock Test** चाहेंगे?
+# ⚡ Advanced Tricks & Shortcuts in Mixture and Alligation
+
+---
+
+## 1. **तीन वस्तुओं का मिश्रण (3 items mixture)**
+
+अगर 3 वस्तुओं को मिलाना हो, तो हम इसे Step by Step **Alligation Rule** से solve करते हैं।
+
+### Example:
+
+₹20/kg, ₹30/kg और ₹40/kg का मिश्रण ₹30/kg पर मिलाना है। अनुपात निकालिए।
+
+👉 Solution:
+
+* पहले 20 और 40 को मिलाएँ → Mixture price = 30 (Mean Price के बराबर)
+* तो अनुपात = 1:1 (20 और 40 का)
+* और तीसरा (₹30/kg) पहले से ही mixture price के बराबर है → तो इसे किसी भी मात्रा में मिलाया जा सकता है।
+
+✅ Final: (20:40 = 1:1) और ₹30 कोई भी मात्रा में।
+
+---
+
+## 2. **Replacement Method (Repeated Mixture Questions)**
+
+👉 जब किसी मिश्रण से कुछ भाग निकाला जाए और उतनी ही मात्रा पानी/दूसरा liquid मिलाया जाए।
+
+### Formula:
+
+$$
+\text{Remaining Quantity of Milk} = \text{Initial Quantity} \times \left(1 - \frac{x}{Q}\right)^n
+$$
+
+जहाँ,
+
+* $Q =$ मिश्रण की कुल मात्रा
+* $x =$ प्रत्येक बार निकाली गई मात्रा
+* $n =$ बार (repetitions)
+
+---
+
+### Example 1:
+
+एक बर्तन में 60 L दूध है।
+हर बार 10 L दूध निकालकर उतना ही पानी मिलाया जाता है।
+3 बार करने के बाद दूध की मात्रा?
+
+👉 Solution:
+
+$$
+= 60 \times \left(1 - \frac{10}{60}\right)^3
+$$
+
+$$
+= 60 \times \left(\frac{50}{60}\right)^3
+$$
+
+$$
+= 60 \times \left(\frac{5}{6}\right)^3
+$$
+
+$$
+= 60 \times \frac{125}{216} = \frac{7500}{216} = 34.72 \, L
+$$
+
+✅ दूध = 34.72 L
+
+---
+
+### Example 2:
+
+100 L मिश्रण (Milk + Water), Milk = 80 L और Water = 20 L.
+10 L मिश्रण निकाला और उतना ही पानी मिलाया।
+Milk की नई मात्रा?
+
+👉 Formula use करो:
+
+$$
+Milk = 80 \times \left(1 - \frac{10}{100}\right)
+$$
+
+$$
+= 80 \times \frac{90}{100} = 72 L
+$$
+
+✅ Milk = 72 L
+
+---
+
+## 3. **Profit & Loss Trick with Mixture**
+
+कभी-कभी प्रश्न इस तरह आता है:
+“एक दुकानदार दूध में पानी मिलाता है और उसे Cost Price पर बेचता है, तो उसका लाभ प्रतिशत निकालिए।”
+
+👉 Trick:
+
+$$
+\text{Gain \%} = \frac{\text{Quantity of Water}}{\text{Quantity of Milk}} \times 100
+$$
+
+### Example:
+
+एक दुकानदार 1 L दूध में 200 ml पानी मिलाता है और Cost Price पर बेचता है।
+Profit%?
+
+👉 Solution:
+Water : Milk = 0.2 : 1 = 1 : 5
+
+$$
+\text{Profit \%} = \frac{1}{5} \times 100 = 20\%
+$$
+
+✅ लाभ = 20%
+
+---
+
+## 4. **Mixture Value Shortcut (Direct Formula)**
+
+कभी-कभी question में पूछते हैं कि – कितनी quantity मिलानी होगी?
+
+👉 Formula:
+
+$$
+\text{Quantity to be added} = \frac{(M - C)}{(D - M)} \times \text{Existing Quantity}
+$$
+
+जहाँ symbols वही हैं (C, D, M)।
+
+---
+
+### Example:
+
+40 L दूध (₹60/L) में पानी मिलाना है (Free), ताकि मिश्रण ₹30/L हो।
+कितना पानी मिलाएँ?
+
+👉 Solution:
+
+$$
+= \frac{(30 - 0)}{(60 - 30)} \times 40
+$$
+
+$$
+= \frac{30}{30} \times 40 = 40 L
+$$
+
+✅ पानी = 40 L
+
+---
+
+## 5. **Shortcut for Exams (1 minute tricks)**
+
+1. **Water Free Case** → Ratio = (Milk Price – Mixture Price) : Mixture Price
+2. **Replacement Case** → हमेशा Formula use करो $(1 - x/Q)^n$
+3. **Profit Trick** → Gain% = (Water ÷ Milk) × 100
+
+---
+
+👉 अब आप बताइए,
+क्या मैं आपको **SSC CGL में बार-बार पूछे गए 10 Advanced Level Practice Questions (Mixed – Replacement + Profit + 3 items)** दे दूँ?
+
+
+
+
+
