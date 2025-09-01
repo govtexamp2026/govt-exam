@@ -1,0 +1,100 @@
+ठीक है 👍
+SSC CGL और अन्य Competitive Exams में **Age Problems (आयु सम्बन्धी प्रश्न)** अक्सर पूछे जाते हैं।
+आइए इसे step-by-step समझते हैं।
+
+---
+
+## 📘 Age Problems (आयु सम्बन्धी प्रश्न)
+
+### 1. आयु सम्बन्धी प्रश्नों की विधि
+
+1. Present age = वर्तमान आयु
+2. Past age = पहले की आयु (x साल पहले)
+3. Future age = भविष्य की आयु (x साल बाद)
+
+👉 Formula
+
+* Future Age = Present Age + Years
+* Past Age = Present Age – Years
+
+---
+
+### 2. सामान्य प्रकार (Types of Questions)
+
+#### (i) Present Age आधारित प्रश्न
+
+👉 Example:
+रवि की आयु उसके पुत्र की आयु से 4 गुनी है। यदि पुत्र की आयु 5 वर्ष है तो रवि की आयु क्या है?
+
+**Solution:**
+रवि की आयु = 5 × 4 = **20 वर्ष**
+
+---
+
+#### (ii) Future Age आधारित प्रश्न
+
+👉 Example:
+राहुल की आयु 5 साल बाद 25 वर्ष होगी। तो उसकी वर्तमान आयु क्या है?
+
+**Solution:**
+Present Age = Future Age – 5 = **20 वर्ष**
+
+---
+
+#### (iii) Past Age आधारित प्रश्न
+
+👉 Example:
+सीमा की आयु 10 साल पहले 15 वर्ष थी। उसकी वर्तमान आयु क्या है?
+
+**Solution:**
+Present Age = Past Age + 10 = **25 वर्ष**
+
+---
+
+#### (iv) Ratio आधारित प्रश्न
+
+👉 Example:
+किसी पिता और पुत्र की आयु का अनुपात 3 : 1 है। यदि पिता की आयु 48 वर्ष है तो पुत्र की आयु क्या है?
+
+**Solution:**
+Father : Son = 3 : 1
+Father की आयु = 48 = 3 भाग
+तो 1 भाग = 48 ÷ 3 = 16
+Son = **16 वर्ष**
+
+---
+
+#### (v) Combined Age Questions
+
+👉 Example:
+दो भाईयों की वर्तमान आयु का योग 40 वर्ष है। यदि उनकी आयु का अंतर 8 वर्ष है तो उनकी आयु ज्ञात कीजिए।
+
+**Solution:**
+मान लेते हैं elder = x, younger = y
+x + y = 40
+x – y = 8
+
+दोनों को जोड़ें → 2x = 48 → x = 24
+अब y = 40 – 24 = 16
+
+तो आयु = **24 वर्ष और 16 वर्ष**
+
+---
+
+### 3. Important Short Tricks
+
+1. जब ratio और difference दिया हो →
+
+   $$
+   \text{Age} = \frac{\text{Difference × Given Ratio Term}}{\text{Difference of Ratios}}
+   $$
+
+👉 Example:
+Father : Son = 5 : 2, Difference = 21
+तो Father = $\frac{21×5}{3} = 35$
+Son = $\frac{21×2}{3} = 14$
+
+---
+
+✅ अब बताइए —
+क्या आप चाहेंगे कि मैं **SSC CGL level के 15–20 Age Problems Questions with Solution (Practice Set in Hindi & English)** तैयार कर दूँ?
