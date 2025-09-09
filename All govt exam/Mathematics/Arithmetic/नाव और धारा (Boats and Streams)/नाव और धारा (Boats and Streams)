@@ -1,0 +1,59 @@
+###############################
+SSC CGL Boats & Streams (TXT Notes)
+###############################
+
+1. **परिभाषा और गति**
+- नाव की गति (Speed of boat) = नाव की गति बिना धारा में (Still water speed)  
+- धारा की गति (Speed of stream/Current) = पानी की गति  
+- नाव की गति के प्रकार:  
+  1. प्रवाह की दिशा में (Downstream)  
+     - Downstream speed = Boat speed + Stream speed  
+  2. प्रवाह के विपरीत (Upstream)  
+     - Upstream speed = Boat speed – Stream speed  
+
+---
+
+2. **मुख्य सूत्र**
+- Downstream (DS) = B + S  
+- Upstream (US) = B – S  
+- B = Boat speed, S = Stream speed  
+- Time = Distance ÷ Speed  
+
+---
+
+3. **समस्याएँ और अनुप्रयोग**
+- दूरी, समय, गति से संबंधित प्रश्न  
+- Upstream और Downstream समय का अनुपात निकालना  
+- Stream की गति निकालना  
+- Boat की गति (Still water) निकालना  
+- Average speed problems  
+
+---
+
+4. **उदाहरण 1**  
+Boat speed = 10 km/hr ; Stream speed = 2 km/hr  
+- Downstream speed = 10 + 2 = 12 km/hr  
+- Upstream speed = 10 – 2 = 8 km/hr  
+
+---
+
+5. **उदाहरण 2**  
+Boat covers 60 km downstream in 4 hours and upstream in 5 hours. Find:  
+(a) Boat speed in still water  
+(b) Stream speed  
+
+**हल:**  
+- DS speed = 60 ÷ 4 = 15 km/hr  
+- US speed = 60 ÷ 5 = 12 km/hr  
+
+- Boat speed B = (DS + US)/2 = (15 + 12)/2 = 13.5 km/hr  
+- Stream speed S = (DS – US)/2 = (15 – 12)/2 = 1.5 km/hr  
+
+---
+
+6. **Tips for SSC CGL**
+- हमेशा Boat और Stream speed का सूत्र याद रखें  
+- Downstream = Boat + Stream, Upstream = Boat – Stream  
+- Time = Distance ÷ Speed का उपयोग सही करें  
+- Combined/average speed की समस्याएँ ध्यान से हल करें  
+- Units (km/hr, m/s) का ध्यान रखें  

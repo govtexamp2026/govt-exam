@@ -179,24 +179,64 @@ Remainder	Remainder when  divided by 6
 Word Problems	Based on numbers, multiples, factors
 
 
+############################################
+SSC CGL Number System (संख्या पद्धति) - Notes
+############################################
+
+1. **पूर्णांक (Integers)**
+- सभी धनात्मक और ऋणात्मक संख्याएँ तथा शून्य।  
+  उदाहरण: -3, -2, -1, 0, 1, 2, 3 …
 
 ---
 
-📄 Practice Strategy:
-
-✅ Learn all divisibility rules.
-
-✅ Practice LCM & HCF using short methods.
-
-✅ Master indices & surds for Tier-2 level.
-
-✅ Solve previous year SSC CGL papers.
-
-✅ Focus on speed + accuracy.
-
-
+2. **दशमलव (Decimals)**
+- भिन्नों को दशमलव रूप में लिखा जाता है।  
+  उदाहरण: 1/2 = 0.5, 3/4 = 0.75  
+- समाप्त दशमलव (Terminating) और आवर्ती दशमलव (Repeating) प्रकार।
 
 ---
 
-Would you like a PDF of these notes or practice questions in Hindi or English?
+3. **भिन्न (Fractions)**
+- रूप: p/q (q ≠ 0)  
+- प्रकार: साधारण भिन्न, अशुद्ध भिन्न, मिश्र भिन्न।  
+- तुलना, जोड़, घटाव, गुणा, भाग के नियम।
 
+---
+
+4. **HCF (महत्तम समापवर्तक)**
+- परिभाषा: दो या अधिक संख्याओं का सबसे बड़ा संख्या जो उन सबको विभाजित करे।  
+- विधि: अभाज्य गुणनखंड विधि (Prime Factorization) या यूक्लिड पद्धति।  
+- उदाहरण: HCF of 24, 36 = 12
+
+---
+
+5. **LCM (लघुत्तम समापवर्तक)**
+- परिभाषा: दो या अधिक संख्याओं का सबसे छोटा गुणज जो उन सबको विभाजित हो।  
+- विधि: अभाज्य गुणनखंड विधि।  
+- उदाहरण: LCM of 12, 18 = 36
+
+---
+
+6. **संख्या की विशेषताएँ**
+- सम संख्या (Even numbers): 2 से विभाज्य।  
+- विषम संख्या (Odd numbers): 2 से अविभाज्य।  
+- अभाज्य संख्या (Prime numbers): केवल 1 और स्वयं से विभाज्य (जैसे 2, 3, 5, 7)।  
+- संयुक्त संख्या (Composite numbers): जिनके 2 से अधिक गुणनखंड हों।  
+
+---
+
+7. **गुणनखंड (Factors)**
+- वह संख्या जो किसी संख्या को पूरी तरह विभाजित करे।  
+- उदाहरण: Factors of 12 = 1, 2, 3, 4, 6, 12  
+
+---
+
+8. **गुणज (Multiples)**
+- किसी संख्या को अन्य संख्याओं से गुणा करने पर प्राप्त संख्याएँ।  
+- उदाहरण: Multiples of 5 = 5, 10, 15, 20, 25 …  
+
+---
+
+9. **महत्वपूर्ण सूत्र**
+- Product of two numbers = HCF × LCM  
+- यदि a और b परस्पर अभाज्य (Coprime) हैं → HCF = 1  
