@@ -1,0 +1,108 @@
+###############################
+SSC CGL Linear Equations – Practice Questions (TXT)
+###############################
+
+1. 3x + 6 = 0
+Solution: x = -6/3 = -2
+
+2. 5x - 15 = 0
+Solution: x = 15/5 = 3
+
+3. x + y = 7
+   x - y = 1
+Solution (Elimination):
+Add: 2x = 8 => x = 4
+Then y = 7 - 4 = 3
+Answer: x=4, y=3
+
+4. 2x + 3y = 13
+   3x - 3y = 3
+Solution (Elimination):
+Add: 5x = 16 => x = 16/5
+Then 2*(16/5) + 3y = 13 => 32/5 + 3y = 13 => 3y = 33/5 => y = 11/5
+Answer: x=16/5, y=11/5
+
+5. x + 2y = 5
+   3x - y = 4
+Solution (Substitution):
+y = (5-x)/2
+3x - ((5-x)/2) = 4 => 3x - 5/2 + x/2 = 4 => 7x/2 - 5/2 = 4
+7x/2 = 9/2 => x=9/7, y=(5-9/7)/2 = 13/14
+Answer: x=9/7, y=13/14
+
+6. 4x - y = 7
+   2x + 3y = 1
+Solution (Elimination):
+Multiply 1st eq by 3: 12x -3y=21
+Add with 2nd eq: 12x -3y + 2x +3y=21+1 =>14x=22 => x=11/7
+Then 4*(11/7) - y=7 =>44/7 - y =7 => y = -3/7
+Answer: x=11/7, y=-3/7
+
+7. x - y = 2
+   x + y = 6
+Solution:
+Add: 2x=8 => x=4
+Then y = 6-4=2
+Answer: x=4, y=2
+
+8. 2x + y = 5
+   3x - y = 4
+Solution:
+Add: 5x = 9 => x=9/5
+Then y = 5-2*(9/5) = 5-18/5=7/5
+Answer: x=9/5, y=7/5
+
+9. 5x + 2y = 12
+   3x - 2y = 4
+Solution:
+Add: 8x=16 => x=2
+Then 5*2 + 2y=12 =>10+2y=12 => y=1
+Answer: x=2, y=1
+
+10. x + 3y = 9
+    2x - y = 4
+Solution:
+y=(9-x)/3
+2x - (9-x)/3 = 4 => 2x -3 + x/3=4 =>7x/3=7 => x=3
+Then y=(9-3)/3=2
+Answer: x=3, y=2
+
+11. 6x - y = 11
+    2x + y = 5
+Solution:
+Add: 8x =16 => x=2
+Then 2*2 + y=5 => y=1
+Answer: x=2, y=1
+
+12. 3x + 4y = 20
+    2x - y = 1
+Solution:
+y=(20-3x)/4
+2x - (20-3x)/4 =1 =>8x -20 +3x =4 =>11x=24 => x=24/11
+y=(20-3*24/11)/4= (20-72/11)/4=(220-72)/44=148/44=37/11
+Answer: x=24/11, y=37/11
+
+13. x - 2y = -1
+    3x + y = 10
+Solution:
+From 1st eq: x=-1+2y
+Substitute: 3(-1+2y) + y =10 => -3+6y + y=10 => 7y=13 => y=13/7
+Then x=-1+2*(13/7)= -1+26/7=19/7
+Answer: x=19/7, y=13/7
+
+14. 4x + 5y = 20
+    2x - y = 2
+Solution:
+From 2nd eq: y=2x-2
+Substitute: 4x +5*(2x-2)=20 => 4x +10x -10=20 =>14x=30 => x=15/7
+Then y=2*(15/7)-2=30/7 -14/7=16/7
+Answer: x=15/7, y=16/7
+
+15. 7x + 3y = 18
+    2x - 5y = -3
+Solution:
+Multiply 2nd eq by 3: 6x -15y=-9
+Subtract from 1st eq: 7x +3y - (6x -15y)=18 - (-9)=> x +18y=27 => x=27-18y
+Substitute: 2*(27-18y) -5y=-3 =>54 -36y -5y=-3 => -41y=-57 => y=57/41
+Then x=27-18*(57/41)=27 -1026/41 = (1107-1026)/41=81/41
+Answer: x=81/41, y=57/41
